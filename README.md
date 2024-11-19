@@ -5,7 +5,7 @@ Name = Marlon Alves Calegari Tizo
 Desc = Estudante de Dev do Senai
 
 ````
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Tizo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/M-Tizo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbrito-code&layout=compact&theme=buefy&hide_border=true" /></a> |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Tizo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/M-Tizo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Tizo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 Ferramentas e Tecnologias
